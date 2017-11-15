@@ -16,3 +16,7 @@ public class HelloWorld {
         System.out.println("'hello-world3' another change...");
     }
 }
+
+public void newMethod() {
+    System.out.println("I think I'm starting to get it!");
+}
